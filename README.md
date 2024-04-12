@@ -1,4 +1,4 @@
-# CNS-L
+# Cryptography and Network Security - Labs
 
 Execution of cryptographic methodologies, algorithms, and security protocols such as 
 
